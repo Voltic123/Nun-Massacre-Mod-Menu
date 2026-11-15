@@ -1,9 +1,9 @@
-# ⚠️ MUST NEED BEPINEX MONO ⚠️
+# ⚠️ MUST NEED BEPINEX WIN X64 ⚠️
 
-**REQUIREMENT:** BepInEx MONO
+**REQUIREMENT:** BepInEx Win x64
 
 ## Installation
-1. Install BepInEx MONO.
+1. Install BepInEx Win x64.
 2. Open your game's installation directory.
 3. Navigate to the `BepInEx\plugins` folder.
 4. Place the VCLIENT DLL file inside the `plugins` folder.
